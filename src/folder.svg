@@ -63,22 +63,22 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="fill:#2980b9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#5FA5E4;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 2,1033.3622 C 0.895431,1033.3622 0,1034.2576 0,1035.3622 L 0,1049.3622 C 0,1050.4668 0.89543,1051.3622 2,1051.3622 L 22,1051.3622 C 23.104569,1051.3622 24,1050.4668 24,1049.3622 L 24,1035.3622 C 24,1034.2576 23.10457,1033.3622 22,1033.3622 L 2,1033.3622 z"
        id="path2987-6-10"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#2980b9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#5FA5E4;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 3,1029.3622 C 1.895431,1029.3622 1,1030.2576 1,1031.3622 L 1,1045.3622 C 1,1046.4668 1.89543,1047.3622 3,1047.3622 L 14,1047.3622 19,1047.3622 21,1047.3622 C 22.104569,1047.3622 23,1046.4668 23,1045.3622 L 23,1036.3622 23,1033.3622 C 23,1032.2576 22.104569,1031.3622 21,1031.3622 L 19,1031.3622 14,1031.3622 13,1031.3622 10,1029.3622 3,1029.3622 z"
        id="path2987-6-1-6-9"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 23,1042.3622 23,1034.3622 C 23,1033.2576 22.10457,1032.3622 21,1032.3622 L 10,1032.3622 5,1032.3622 3,1032.3622 C 1.895431,1032.3622 1,1033.2576 1,1034.3622 L 1,1042.3622 23,1042.3622 z"
        id="path2987-6-1-6-9-1-9"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#3498db;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:#5FA5E4;stroke-width:0.5;"
        d="M 2,1033.3622 C 0.895431,1033.3622 0,1034.2576 0,1035.3622 L 0,1041.3622 0,1042.3622 0,1048.3622 C 0,1049.4668 0.89543,1050.3622 2,1050.3622 L 22,1050.3622 C 23.104569,1050.3622 24,1049.4668 24,1048.3622 L 24,1042.3622 24,1041.3622 24,1035.3622 C 24,1034.2576 23.10457,1033.3622 22,1033.3622 L 2,1033.3622 z"
        id="path2987-6-8"
        inkscape:connector-curvature="0" />

@@ -64,12 +64,12 @@
        d="M 5,1030.3622 C 3.895431,1030.3622 3,1031.2576 3,1032.3622 L 3,1040.3622 3,1044.3622 3,1050.3622 C 3,1051.4668 3.89543,1052.3622 5,1052.3622 L 19,1052.3622 C 20.104569,1052.3622 21,1051.4668 21,1050.3622 L 21,1044.3622 21,1040.3622 21,1036.3622 15,1030.3622 5,1030.3622 z"
        inkscape:connector-curvature="0"
        id="path2987-2"
-       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#e1e6e8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="M 5,1029.3622 C 3.895431,1029.3622 3,1030.2576 3,1031.3622 L 3,1039.3622 3,1043.3622 3,1049.3622 C 3,1050.4668 3.89543,1051.3622 5,1051.3622 L 19,1051.3622 C 20.104569,1051.3622 21,1050.4668 21,1049.3622 L 21,1043.3622 21,1039.3622 21,1035.3622 15,1029.3622 5,1029.3622 z"
        inkscape:connector-curvature="0"
        id="path2987"
-       style="fill:#bdc3c7;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:#e1e6e8;stroke-width:1;" />
     <rect
        width="2"
        height="14"
@@ -88,6 +88,6 @@
        d="M 21,1035.3622 15,1029.3622 15,1033.3622 C 15,1034.4668 15.89543,1035.3622 17,1035.3622 L 21,1035.3622 z"
        inkscape:connector-curvature="0"
        id="path2987-80"
-       style="fill:#95a5a6;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#e1e6e8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
 </svg>
